@@ -14,6 +14,8 @@
 
 ### 负责人
 
++   [AllenZYJ](https://github.com/AllenZYJ)
+
 ### 其他
 
 *   认领翻译和项目进度-地址: <https://github.com/apachecn/stanford-cs224n-notes-zh/issues/1>

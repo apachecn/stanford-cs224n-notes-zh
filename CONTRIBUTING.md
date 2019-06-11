@@ -8,6 +8,8 @@
 
 负责人：
 
++   [AllenZYJ](https://github.com/AllenZYJ)
+
 ## 章节列表
 
 ## 流程
