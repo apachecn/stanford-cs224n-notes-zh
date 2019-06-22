@@ -5,12 +5,34 @@
 课程视频：
 
 +   [斯坦福 CS224n 深度学习自然语言处理课程 2019](https://www.bilibili.com/video/av46216519)
++   [字幕（BCC 格式）](https://github.com/apachecn/stanford-cs224n-notes-zh/tree/master/bcc-en)
 
 负责人：
 
 +   [AllenZYJ](https://github.com/AllenZYJ)
 
 ## 章节列表
+
++   [Lecture 1](https://www.bilibili.com/video/av46216519/?p=1)
++   [Lecture 2](https://www.bilibili.com/video/av46216519/?p=2)
++   [Lecture 3](https://www.bilibili.com/video/av46216519/?p=3)
++   [Lecture 4](https://www.bilibili.com/video/av46216519/?p=4)
++   [Lecture 5](https://www.bilibili.com/video/av46216519/?p=5)
++   [Lecture 6](https://www.bilibili.com/video/av46216519/?p=6)
++   [Lecture 7](https://www.bilibili.com/video/av46216519/?p=7)
++   [Lecture 8](https://www.bilibili.com/video/av46216519/?p=8)
++   [Lecture 9](https://www.bilibili.com/video/av46216519/?p=9)
++   [Lecture 10](https://www.bilibili.com/video/av46216519/?p=10)
++   [Lecture 11](https://www.bilibili.com/video/av46216519/?p=11)
++   [Lecture 12](https://www.bilibili.com/video/av46216519/?p=12)
++   [Lecture 13](https://www.bilibili.com/video/av46216519/?p=13)
++   [Lecture 14](https://www.bilibili.com/video/av46216519/?p=14)
++   [Lecture 15](https://www.bilibili.com/video/av46216519/?p=15)
++   [Lecture 16](https://www.bilibili.com/video/av46216519/?p=16)
++   [Lecture 17](https://www.bilibili.com/video/av46216519/?p=17)
++   [Lecture 18](https://www.bilibili.com/video/av46216519/?p=18)
++   [Lecture 19](https://www.bilibili.com/video/av46216519/?p=19)
++   [Lecture 20](https://www.bilibili.com/video/av46216519/?p=20)
 
 ## 流程
 
@@ -22,7 +44,7 @@
 
 ### 二、整理笔记
 
-+   [下载英文字幕](https://www.bilibili.com/video/av46216519)
++   [下载英文字幕](https://github.com/apachecn/stanford-cs224n-notes-zh/tree/master/bcc-en)
 +   翻译（可以利用[谷歌翻译](https://translate.google.cn)，但一定要把它变得可读）
 +   排版成段落，并添加视频截图
 
