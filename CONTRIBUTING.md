@@ -51,7 +51,7 @@
 ### 三、提交
 
 +   `fork` Github 项目
-+   将文档放在`docs`中。
++   将文档（**Markdown 格式**）放在`docs`中。
 +   `push`
 +   `pull request`
 
