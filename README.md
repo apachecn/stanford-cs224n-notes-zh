@@ -6,6 +6,9 @@
 > 
 > 欢迎任何人参与和完善：一个人可以走的很快，但是一群人却可以走的更远。
 
++   [斯坦福 CS229 机器学习中文笔记](http://ai-start.com/ml2014/)
++   [DeepLearning.ai 深度学习中文笔记](http://ai-start.com/dl2017/)
++   [斯坦福 CS234 强化学习中文讲义](https://github.com/apachecn/stanford-cs234-notes-zh)
 +   [ApacheCN 机器学习交流群 629470233](http://shang.qq.com/wpa/qunwpa?idkey=30e5f1123a79867570f665aa3a483ca404b1c3f77737bc01ec520ed5f078ddef)
 +   [ApacheCN 学习资源](http://www.apachecn.org/)
 
