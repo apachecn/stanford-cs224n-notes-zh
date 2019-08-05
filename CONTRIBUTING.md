@@ -5,6 +5,7 @@
 课程视频：
 
 +   [斯坦福 CS224n 深度学习自然语言处理课程 2019](https://www.bilibili.com/video/av46216519)
++   [字幕（BCC 格式）](https://github.com/apachecn/stanford-cs224n-notes-zh/tree/master/bcc-en)
 
 负责人：
 
@@ -43,14 +44,14 @@
 
 ### 二、整理笔记
 
-+   [下载英文字幕](https://www.bilibili.com/video/av46216519)
++   [下载英文字幕](https://github.com/apachecn/stanford-cs224n-notes-zh/tree/master/bcc-en)
 +   翻译（可以利用[谷歌翻译](https://translate.google.cn)，但一定要把它变得可读）
 +   排版成段落，并添加视频截图
 
 ### 三、提交
 
 +   `fork` Github 项目
-+   将文档放在`docs`中。
++   将文档（**Markdown 格式**）放在`docs`中。
 +   `push`
 +   `pull request`
 
