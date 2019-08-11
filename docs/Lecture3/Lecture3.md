@@ -1,5 +1,11 @@
 **CS224N(第三节):**
 
+>   **一，前言：**
+
+**本章节主要讲解了神经网络的基础知识，并解决NLP任务中的经典问题。**
+
+二，**正文：**
+
 **Word Window Classification, Neural Nets and Calculus**
 
 **Classification setup and notation：**
