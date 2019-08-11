@@ -4,7 +4,7 @@
 
 **本章节主要讲解了神经网络的基础知识，并解决NLP任务中的经典问题。**
 
-1.  **正文：**
+二，**正文：**
 
 **Word Window Classification, Neural Nets and Calculus**
 
